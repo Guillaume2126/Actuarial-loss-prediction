@@ -9,7 +9,7 @@ Nettoyage et pré-processing
 Feature engineering
 Entraînement et comparaison de plusieurs modèles de Machine Learning
 
-'''project/
+```project/
 │
 ├── notebooks/
 │   ├── 1.Data_visualization_and_analysis.ipynb
@@ -26,7 +26,7 @@ Entraînement et comparaison de plusieurs modèles de Machine Learning
 │   └── lgb_submission.csv -> Output
 │
 ├── requirements.txt
-└── README.md'''
+└── README.md```
 
 ## Installation des dépendances
 
