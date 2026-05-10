@@ -4,10 +4,13 @@ Ce projet a pour objectif de prédire le coût final d’un sinistre (Ultimate I
 
 Le pipeline complet comprend :
 
-Analyse exploratoire des données (EDA)
-Nettoyage et pré-processing
-Feature engineering
-Entraînement et comparaison de plusieurs modèles de Machine Learning
+Analyse exploratoire des données (EDA), nettoyage et pré-processing, feature engineering et entraînement et comparaison de plusieurs modèles de Machine Learning
+
+# Installation des dépendances
+
+pip install -r requirements.txt
+
+# Architecture du projet
 
 ```project/
 │
@@ -27,7 +30,3 @@ Entraînement et comparaison de plusieurs modèles de Machine Learning
 │
 ├── requirements.txt
 └── README.md```
-
-## Installation des dépendances
-
-pip install -r requirements.txt
